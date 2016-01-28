@@ -1,0 +1,22 @@
+Carpeta de las reflexiones: /d/Dropbox/UIS/INGENIERÍA\ DEL\ SOFTWARE\ I/Curso\ GIT\ y\ GITHUB\ -\ Udacity.com/Reflections
+
+Reflection 1: What happens when you initialize a repository? Why do you need to do it?
+
+    Cuando inicializo un repositorio, este se crea en la carpeta en la que tengo los archivos que quiero incluir en el repositorio. Este repositorio queda oculto ya que se crea con la extensión .git que lo oculta en el sistema. Este paso es necesario ya que para poder tener un control de las versiones anteriores de mi proyecto debo ir guardando los commits en dicho repositorio, y si no lo creo Git no va a tener donde guardar los commits que necesito.
+
+Reflection 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+Reflection 3: How can you use the staging area to make sure you have one commit per logical change?
+
+
+Reflection 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+Reflection 5: How do the diagrams help you visualize the branch structure?
+
+
+Reflection 6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+Reflection 7: What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
