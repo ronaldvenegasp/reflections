@@ -6,6 +6,8 @@ Reflection 1: What happens when you initialize a repository? Why do you need to 
 
 Reflection 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+    El área de ensayo es diferente al directorio de trabajo ya allí no se guardan los archivos de un directorio especifico. Es también diferente al repositorio ya que en esta área no se guardan commits hechos en un proyecto. El valor que ofrece el área de ensayo es el de poder analizar bien si los archivos colocados allí son los que deben ser usados para hacer un commit que tenga información relevante y guardar dichos commits en el repositorio del proyecto.
+
 
 Reflection 3: How can you use the staging area to make sure you have one commit per logical change?
 
