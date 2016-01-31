@@ -1,0 +1,5 @@
+Reflection 1: When would you want to use a remote repository rather than keeping all your work local?
+
+  El usar repositorios remotos es bueno y prefiero usarlos cuando no este trabajando en mi computador personal y haga avances o cambios
+  en un proyecto en el que este trabajando. De esta forma, los cambios que tenga el proyecto los voy a guardar en el repositorio para no
+  perderlos y voy a poder verlos cuando vaya a trabajar en mi computador personal.
