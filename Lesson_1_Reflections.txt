@@ -2,10 +2,6 @@ Carpeta de las reflexiones: /d/Dropbox/UIS/INGENIERÍA\ DEL\ SOFTWARE\ I/Curso\ 
 
 Reflection 1: How did viewing a diff between two versions help you spot the bug?
 
-    When I can see the differences between the two files, is really easy to note the changes in the code. As I can see the differences between the old and the new version
-    of the code, I can spot the bugs easily; just comparing the differences in the lines of the two codes. If the old version of the code was working with no problem, and
-    if the new version fails. There is a chance that the changes that I made to the old code can be the problem or the bug in the new version of the code.
-
     Cuando puedo ver las diferencias entre los dos archivos, es muy fácil de observar los cambios en el código. Como puedo ver las diferencias entre la vieja y la nueva versión del código, puedo detectar los errores fácilmente; basta con comparar las diferencias en las líneas de los dos códigos . Si la versión anterior del código estaba trabajando sin ningún problema, y si la nueva versión falla. Existe la posibilidad de que los cambios que he realizado en el código antiguo puedan ser el problema o el error en la nueva versión del código .
     
 Reflection 2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
