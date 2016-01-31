@@ -11,14 +11,20 @@ Reflection 2: How is the staging area different from the working directory and t
 
 Reflection 3: How can you use the staging area to make sure you have one commit per logical change?
 
+	El área de ensayo me permite ver los cambios que he hecho en los archivos y los cuales estan listos para ser agregados al repositorio por medio de un commit. Si quiero guardar los cambios hechos en los archivos, hago el commit de los archivos que estan en el área de ensayo, de los contrario los elimino de allí y no hago el commit de los cambios que no deseo guardar.
 
 Reflection 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+	Las ramas (Branches) son de gran ayuda cuando se quieren probar funcionalidades que no necesariamente van a ir en el proyecto a la hora de la entrega. Son ramas del desarrollo que permiten ver si es acertado o no agregar dichas funcionalidades para la entrega final del proyecto en desarrollo y su comportamiento en el mismo.
 
 Reflection 5: How do the diagrams help you visualize the branch structure?
 
+	Los diagramas me ayudan a ver la estructura de las diferentes ramas mostrandome desde que commit se inició una rama y cuales son los commits que se han hecho de ese punto en adelante. Esto me sirve para saber exactamente que commits se han hecho en cada rama para llevar a cabo diferentes cambios a la vez en el desarrollo de un proyecto sin que dichos cambios afecten el resultado final si no se incluyen en el.
 
 Reflection 6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+	El resultado de unir las dos ramas es tener un proecto con los cambios implementados en cada rama unidos en la rama principal, sin perder ningún tipo de funcionalidad anterior o de alguna de las ramas por separado. En el diagrama se representan de esa forma porque al unir las dos ramas se crea un nuevo commit que tiene acceso a los commits anteriores de cualquiera de las dos ramas y que tiene los cambios hechos en cada rama.
 
-Reflection 7: What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
+Reflection 7: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Una ventaja de que Git haga la unión de dos ramas es que nos ahorra el trabajo de unir dichas ramas manualmente y hace más eficiente el trabajo. Una desventaja es que al hacer esto puede que combine errores y al tomar la decisión de unir dos ramas por si solo, elimine código que alguien agregó y que debe estar en el código del proyecto. AL hacer la unión de ramas manualmente, nos podemos asegurar de que los conflictos existentes en el código del proyecto se resuelvan para dejar las partes que funcionan sin problema y los avances hechos sin elmiminar o dañar el código que un colaborador pudo poner en el archivo.
