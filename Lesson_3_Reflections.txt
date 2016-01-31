@@ -3,3 +3,23 @@ Reflection 1: When would you want to use a remote repository rather than keeping
   El usar repositorios remotos es bueno y prefiero usarlos cuando no este trabajando en mi computador personal y haga avances o cambios
   en un proyecto en el que este trabajando. De esta forma, los cambios que tenga el proyecto los voy a guardar en el repositorio para no
   perderlos y voy a poder verlos cuando vaya a trabajar en mi computador personal.
+
+Reflection 2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    
+
+Reflection 3: Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+
+    
+
+Reflection 4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    
+
+Reflection 5: How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+
+    
+
+Reflection 6: When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+
+    
