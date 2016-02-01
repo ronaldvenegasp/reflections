@@ -6,20 +6,20 @@ Reflection 1: When would you want to use a remote repository rather than keeping
 
 Reflection 2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    
+    Es mejor hacer un pull manual del repositorio almacenado en GitHub ya que es posible que no todos los cambios de todas las ramas los desee almacenar en mi copia local del proyecto. Además, como otras personas pueden colaborar con el proyecto, ellos pueden hacer cambios al proyecto con los que no este de acuerdo o que generen problemas en el funcionamiento del proyecto, de manera que es posible que no quiera tener esos cambios en mi copia local. Si Git hiciera los pull de manera automática, haría que cambios que tal vez no quiero tener, se almacenen en mi copia local del proyecto.
 
 Reflection 3: Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    
+    Forks son las copias (con reconocimiento del autor) que se hacen de un repositorio de alguien más a mi cuenta GitHub y se usan cuando quiero tener una copia de un proyecto ajeno en mi GitHub. Clones es copiar un repositorio tal cual es ya sea de un directorio de mi pc a otro o desde una url a mi pc y se usa cuando quiero actualizar uin directorio con el contenido de un repositorio. Las ramas son las bifurcaciones que toma un proyecto solo en el pc en el que se esta trabajando y se usa cuando se quieren probar nuevas caracteristicas o cambios en un proyecto. Es posible seleccionar que ramas se van a compartir en GitHub y no necesariamente todas las ramas deben ser compartidas.
 
 Reflection 4: What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    
+    La ventaja es que puedo ver los cambios que se hicieron en el repositorio almacenado en GitHub, pero estos cambios no afectan aún los cambios que tengo en mi copia local. Solo cuando yo decida unirlos se van a ver los cambios tanto de Git como de GitHub en la misma rama del proyecto con los commits ordenados.
 
 Reflection 5: How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    
+    Ahora que conozco Git y GitHub, el colaborar usando Dropbox, Google Drive, OneDrive y otros mecanismos de almacenamiento en la nube que es como lo hacia (y lo seguiria haciendo de conocer las nuevas herramientas presentadas en este curso) me parecen ahora más dificiles de manejar, ya que el control de los cambios hechos por mi y por mis colaboradores en los proyectos que lleve a cabo sson más dificiles de controlar en esas pltaformas. Git y GitHub me parecen ahora la herramienta más sencilla y fácil de manejar. 
 
 Reflection 6: When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    
+    Los cambios los haré en una nueva rama en el momento en el que necesite probar y mostrar una nueva caracteristica en un proyecto o algún cambio en le mismo con el fin de que mis colaboradores puedan realimentar y dar opiniones o ayudar en el proceso, pero esto sin cambiar lo que ya se tiene funcionando sin problema en el proyecto. Al hacer cambios directamente en la rama principal puedo probar su funcionamiento en el proyecto y saber si ya va a quedar de esa forma. Esto se haría cuando el cambio no sea muy grande o pueda comprometer el proyecto.
